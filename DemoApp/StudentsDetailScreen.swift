@@ -10,12 +10,18 @@ import SwiftUI
 
 struct StudentsDetailScreen: View {
     @ObservedObject var model: MainViewModel
-    var temp3personIndex: Int = 0
+//    var temp3personIndex: Int = 0
     var personIndex: Int = 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     var temppersonIndex: Int = 0
     var temp2personIndex: Int = 0
     var personIndex2: Int = 0
+=======
+//    var temppersonIndex: Int = 0
+//    var temp2personIndex: Int = 0
+//    var personIndex2: Int = 0
+>>>>>>> Stashed changes
     
 =======
     var personIndex2: Int = 0
