@@ -14,7 +14,8 @@ struct StudentsDetailScreen: View {
     var personIndex: Int = 0
     var temppersonIndex: Int = 0
     var temp2personIndex: Int = 0
-
+    var personIndex2: Int = 0
+    
     @State var navigateToNext : Bool = false
     var body: some View {
         VStack(alignment: .leading, spacing: 20) {
